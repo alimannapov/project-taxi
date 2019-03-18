@@ -1,0 +1,21 @@
+.main{
+  width: 1170px;
+  margin: 0 auto;
+  margin-bottom: 55px;
+}
+.content__title{
+ text-transform:capitalize;
+ text-align: left;
+}
+.content{
+  display: inline-block;
+}
+.content__img{
+width: 366px;
+height: 241px;
+ margin-right: 31px;
+margin-bottom:30px;
+}
+.content__img:nth-child(3n){
+  margin-right: 0;
+}
